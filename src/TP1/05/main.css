@@ -1,0 +1,51 @@
+h1{
+  text-align: center;
+}
+
+.pai3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100vw;
+}
+
+.filho1-3{
+  width: 180px;
+  height: 180px;
+  background-color: red;
+  margin: 10px; 
+}
+
+.filho2-3{
+  width: 180px;
+  height: 180px;
+  background-color: greenyellow;
+  margin: 10px;
+  flex-basis: 200px
+}
+
+.filho3-3{
+  width: 180px;
+  height: 180px;
+  background-color:aquamarine;
+  margin: 10px;
+}
+
+.filho4-3{
+  width: 180px;
+  height: 180px;
+  background-color: rgb(203, 47, 255);
+  margin: 10px;
+}
+
+.filho4-4{
+  width: 180px;
+  height: 180px;
+  background-color: rgb(38, 94, 163);
+  margin: 10px;
+}
+
+.flex{
+  flex: 1;
+}

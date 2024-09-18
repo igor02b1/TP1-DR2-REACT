@@ -1,0 +1,36 @@
+h1{
+  text-align: center;
+}
+
+.pai2{
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+.filho1-1{
+  width: 180px;
+  height: 180px;
+  background-color: red;
+  margin: 10px;
+}
+
+.filho2-1{
+  width: 180px;
+  height: 180px;
+  background-color: greenyellow;
+  margin: 10px;
+}
+
+.filho3-1{
+  width: 180px;
+  height: 180px;
+  background-color:aquamarine;
+  margin: 10px;
+}
+
+.filho4-1{
+  width: 180px;
+  height: 180px;
+  background-color:papayawhip;
+  margin: 10px;
+}

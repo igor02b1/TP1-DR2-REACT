@@ -1,0 +1,32 @@
+/* exercicio 1.1 */
+h1{
+  text-align: center;
+}
+
+.pai{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.filho1{
+  width: 180px;
+  height: 180px;
+  background-color: red;
+  margin: 10px;
+}
+
+.filho2{
+  width: 180px;
+  height: 180px;
+  background-color: greenyellow;
+  margin: 10px;
+}
+
+.filho3{
+  width: 180px;
+  height: 180px;
+  background-color:aquamarine;
+  margin: 10px;
+}
